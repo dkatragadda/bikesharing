@@ -4,7 +4,7 @@
 
 This project involved studying the bikesharing data from the NYC Citi Bike website. We downloaded the data for rides that occured in August 2019 to study and provide insights to the team which wants to start a similar bikesharing service in Des Moines, Iowa. We used Python and the pandas library to transform some data and then imported the data into Tableau to create visualizations to help the team. 
 
-The Tableau dashboard is published and the link is below:
+The Tableau dashboard is published and the link is as follows:
 [Tableau Dashboard](https://public.tableau.com/profile/dushyant.katragadda#!/vizhome/NYCCitiBikeAnalysisfordatainAug2019/NYCCitiBikeAnalysis)
 
 ## Results
