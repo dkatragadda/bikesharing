@@ -59,3 +59,10 @@ Most rides end within an hour and maximum number of rides end within 5 minutes o
 
 The rider patterns are consistent with trip durations across genders where most trips end within 5 minutes of their ride.
 
+## Summary
+
+The results show that the bikesharing service is a valuable service to be provided to riders in the city. In this case, the team should proceed with setting up the bikeshare service in Des Moines, Iowa based on the insights generated through this analysis. 
+
+Some additional visualizations for future analysis would cover:
+1. To design a plot/visualization to understand when bikes need some maintenance/service - this could cover what time of the day, age of the bike or frequency of service necessary
+2. To review bike stations capacity at the busy times of the day to ensure that all stations are equipped with bikes and if necessary, re-distribute the inventory across different bike stations to ensure that there are enough bikes during the peak hours at the most popular stations. 
